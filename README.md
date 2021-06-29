@@ -30,6 +30,6 @@ To use on a webpage, open the console and type:
 
 `document.head.appendChild(jQuery);`
 
-`document.head.appendChild(glibify);
+`document.head.appendChild(glibify);`
 
 `glib.glibify()`

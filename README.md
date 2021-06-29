@@ -28,6 +28,8 @@ To use on a webpage, open the console and type:
 
 `glibify.src = 'https://cdn.jsdelivr.net/gh/leimapapa/glibify/glibify.min.js';`
 
-`document.head.appendChild(glibify);`
+`document.head.appendChild(jQuery);`
+
+`document.head.appendChild(glibify);
 
 `glib.glibify()`

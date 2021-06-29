@@ -16,12 +16,18 @@ https://codepen.io/leimapapa/pen/ZEKYWoR
 
 To use on a webpage, open the console and type:
 
-`var script = document.createElement('script');`
+`var jQuery = document.createElement('script');`
 
-`script.type = 'text/javascript';`
+`jQuery.type = 'text/javascript';`
 
-`script.src = 'https://cdn.jsdelivr.net/gh/leimapapa/glibify/glibify.min.js';`
+`jQuery.src = 'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js'`
 
-`document.head.appendChild(script);`
+`var glibify = document.createElement('script');`
+
+`glibify.type = 'text/javascript';`
+
+`glibify.src = 'https://cdn.jsdelivr.net/gh/leimapapa/glibify/glibify.min.js';`
+
+`document.head.appendChild(glibify);`
 
 `glib.glibify()`

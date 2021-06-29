@@ -323,7 +323,7 @@ const glib = (function (jQ) {
 			replaceParagraphs(elems[i], underFire);
 		}
 
-		prependHElements();
+		// prependHElements();
 		replaceImgs();
 		document.body.style.background = "hotpink";
 	};

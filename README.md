@@ -4,6 +4,9 @@ The news is just gossip for adults
 ## CDN
 https://cdn.jsdelivr.net/gh/leimapapa/glibify/glibify.min.js
 
+
+https://cdn.jsdelivr.net/gh/leimapapa/glibify/glibifyPlugin.js
+
 ## Example
 
 https://codepen.io/leimapapa/pen/ZEKYWoR
